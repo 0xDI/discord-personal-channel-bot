@@ -8,8 +8,3 @@ A Discord bot that creates a channel for each user that verifies on the server t
 * Update **category_id** **verified_role_id** & **staff_role_id**
 * Update Bot Token at the bottom
 * Adjust the message to your needs
-
-
-# 🛑 This is created for personal use & is not meant to be sold. Credits to [EvolveFrame](https://evolvefra.me)
-
-
